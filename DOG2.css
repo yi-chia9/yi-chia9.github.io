@@ -1,0 +1,41 @@
+body {
+    font-family: "Microsoft JhengHei", sans-serif;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+.breed-list {
+    list-style: none;
+    padding: 0;
+}
+
+.breed-list li {
+    margin: 1rem 0;
+}
+
+.breed-list a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.2rem;
+}
+
+.breed-list a:hover {
+    color: #4CAF50;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #ddd;
+}
